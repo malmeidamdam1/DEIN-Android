@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Midgard_menu_busqueda</string>
+    <string name="app_name">Menus</string>
+    <string name="edit_action">Editar</string>
+    <string name="delete_action">Borrar</string>
+    <string name="share_action">Compartir</string>
+    <string name="create_pdf_action">Generar PDF\n</string>
+    <string name="print_action">Imprimir\n</string>
+    <string name="send_action">Enviar\n</string>
+    <string name="mark_as_paid_action">Marcar como pagada</string>
+    <string name="search_action">Buscar</string>
+    <string name="mostrar_consumo">Mostrar consumo\n</string>
+    <string name="desplazamiento">Mostrar 1</string>
+    <string name="velocidad">Mostrar 2</string>
+    <string name="aceleración">Mostrar 3</string>
+    <string name="add_category">Nueva categoria\n</string>
+    <string name="add_label">Nueva etiqueta</string>
+    <string name="settings">Ajustes</string>
+    <string name="download">Descargar</string>
+    <string name="share">Compartir\n</string>
+    <string name="copy_description">Copiar descripción</string>
+    <string name="more_actions_desc" />
+    <string name="add_favorites">Añadir a favoritos</string>
+    <string name="move">Mover\n</string>
 </resources>
