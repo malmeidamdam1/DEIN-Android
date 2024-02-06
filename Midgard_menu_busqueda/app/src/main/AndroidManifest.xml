@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Midgard_menu_busqueda"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.menus.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
